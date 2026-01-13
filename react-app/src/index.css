@@ -1,0 +1,17 @@
+.remote-react-container {
+  padding: 12px;
+  border: 1px solid #61dafb;
+  background: #f0f9ff;
+}
+
+.remote-react-title {
+  margin-top: 0;
+  color: #61dafb;
+}
+
+.react-user-data {
+  margin-bottom: 12px;
+  font-size: 0.9em;
+  border-bottom: 1px dashed #61dafb;
+  padding-bottom: 8px;
+}
